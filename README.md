@@ -1,96 +1,65 @@
-<!-- PROFITOLO – GitHub Profile BIO (HTML) -->
-<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; line-height:1.45; color:#0b1220; max-width:880px;">
+<!-- SHADWO | Futuristic GitHub Portfolio -->
+<div align="center" style="font-family:'Segoe UI',Roboto,system-ui; color:#e5e7eb; background:linear-gradient(145deg,#0f172a,#1e293b); border-radius:20px; padding:25px; box-shadow:0 0 40px rgba(0,0,0,0.4);">
 
-  <!-- Header -->
-  <div style="display:flex; align-items:center; gap:16px;">
-    <img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="avatar" width="96" height="96" style="border-radius:12px; object-fit:cover;">
-    <div>
-      <h1 style="margin:0; font-size:26px; letter-spacing:0.4px;">
-        <span style="font-variant: small-caps;">Touhid Hussain</span> <!-- change name if needed -->
-        <span style="font-size:14px; color:#6b7280; margin-left:8px;">• Full-Stack Developer & Open-Source Enthusiast</span>
-      </h1>
-      <p style="margin:6px 0 0; color:#334155;">Building fast, reliable bots & delightful web apps. I love automation, anime APIs, and clever developer tools.</p>
-    </div>
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/000000?v=4" width="120" style="border-radius:50%; border:2px solid #38bdf8; box-shadow:0 0 15px #38bdf8;">
+  
+  <h1 style="font-size:28px; margin:12px 0 6px; letter-spacing:2px; text-transform:uppercase; color:#38bdf8;">Shadwo</h1>
+  <p style="font-size:14px; color:#94a3b8;">Telegram Bot Developer • Python Programmer • Community Builder</p>
 
-  <!-- Social badges -->
-  <p style="margin-top:14px;">
-    <a href="#" target="_blank" rel="noopener">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@TouhidH-black?logo=github&style=for-the-badge">
-    </a>
-    <a href="#" target="_blank" rel="noopener">
-      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge">
-    </a>
-    <a href="#" target="_blank" rel="noopener">
-      <img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-orange?logo=google-chrome&style=for-the-badge">
-    </a>
-    <a href="mailto:you@example.com" target="_blank" rel="noopener">
-      <img alt="Email" src="https://img.shields.io/badge/Email-hello%40you-lightgrey?logo=gmail&style=for-the-badge">
-    </a>
-    <a href="#" target="_blank" rel="noopener">
-      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-Message-blue?logo=telegram&style=for-the-badge">
-    </a>
+  <p>
+    <a href="mailto:looktouhid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-looktouhid%40gmail.com-red?logo=gmail&style=for-the-badge"></a>
+    <a href="https://github.com/shadwo" target="_blank"><img src="https://img.shields.io/badge/GitHub-shadwo-black?logo=github&style=for-the-badge"></a>
+    <a href="https://t.me/Siyaprobot" target="_blank"><img src="https://img.shields.io/badge/Telegram-Siya%20Probot-blue?logo=telegram&style=for-the-badge"></a>
+    <a href="https://t.me/ShadowAnime" target="_blank"><img src="https://img.shields.io/badge/Channel-Shadow%20Anime-9f3fff?logo=telegram&style=for-the-badge"></a>
+    <a href="https://t.me/SiyaDevlogs" target="_blank"><img src="https://img.shields.io/badge/Devlogs-Siya%20Devlogs-22c55e?logo=notion&style=for-the-badge"></a>
   </p>
 
-  <!-- Quick summary -->
-  <div style="background:#f8fafc; border:1px solid #e6eef6; padding:14px; border-radius:12px; margin-top:12px;">
-    <strong style="font-size:15px;">Who I am</strong>
-    <p style="margin:8px 0 0;">
-      I build and maintain bots, automation tools, and web apps. My work focuses on reliability, speed, and delightful UX — from Telegram bots (music/anime tools) to full-stack web projects.
-    </p>
-    <p style="margin:6px 0 0;"><strong>Core:</strong> Python · Node.js · FastAPI · Flask · MongoDB · Docker · yt-dlp · Pyrogram · Aiogram</p>
-  </div>
+  <hr style="border:none; height:1px; background:#334155; margin:18px 0;">
 
-  <!-- Skills & Tech -->
-  <h3 style="margin-top:18px; margin-bottom:8px;">Skills & Tech</h3>
-  <p style="margin:0 0 12px;">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3.11-blue?logo=python" style="margin-right:6px;">
-    <img alt="Node" src="https://img.shields.io/badge/Node.js-18-green?logo=node.js" style="margin-right:6px;">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Atlas-4ea94b?logo=mongodb" style="margin-right:6px;">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-Containers-2496ed" style="margin-right:6px;">
-    <img alt="Git" src="https://img.shields.io/badge/Git-VersionControl-orange" style="margin-right:6px;">
-    <img alt="yt-dlp" src="https://img.shields.io/badge/yt--dlp-Downloader-black" style="margin-right:6px;">
+  <h3 style="color:#f8fafc;">👨‍💻 About Me</h3>
+  <p style="max-width:650px; margin:auto; color:#cbd5e1;">
+    I’m <b>Shadwo</b> — a creative bot developer and Python enthusiast from India.  
+    I build fast, intelligent, and community-driven Telegram systems that make automation fun and accessible.  
+    Currently leading <b>Siya Bots</b> and collaborating with the <b>Shadow Dev Team</b> to push bot innovation forward.
   </p>
 
-  <!-- Featured Projects -->
-  <h3 style="margin-top:18px; margin-bottom:8px;">Featured projects</h3>
-  <ul style="margin-top:0; padding-left:18px;">
-    <li><strong><a href="#" target="_blank">AnonXMusic</a></strong> — A fast Telegram music & utility bot (Pyrogram & yt-dlp). Includes anime commands and economy features.</li>
-    <li><strong><a href="#" target="_blank">AnimeGrabber</a></strong> — Scraper & Hindi-dub availability checker integrated with Jikan API and site scrapers.</li>
-    <li><strong><a href="#" target="_blank">YouTube Toolset</a></strong> — Cookie-based downloads, metadata extraction, format chooser, and playlist handling.</li>
-  </ul>
-
-  <!-- Stats / CTA -->
-  <div style="display:flex; gap:12px; align-items:center; margin-top:12px; flex-wrap:wrap;">
-    <a href="#" target="_blank" rel="noopener" style="text-decoration:none;">
-      <img alt="Top repo" src="https://img.shields.io/github/stars/YourUser/YourRepo?style=for-the-badge">
-    </a>
-    <a href="#" target="_blank" rel="noopener" style="text-decoration:none;">
-      <img alt="Followers" src="https://img.shields.io/github/followers/YourUser?label=Followers&style=for-the-badge">
-    </a>
-    <a href="#" target="_blank" rel="noopener" style="text-decoration:none;">
-      <img alt="Last commit" src="https://img.shields.io/github/last-commit/YourUser/YourRepo?style=for-the-badge">
-    </a>
-
-    <div style="margin-left:auto;">
-      <a href="#" target="_blank" rel="noopener" style="background:#111827; color:#fff; padding:10px 14px; border-radius:10px; text-decoration:none; font-weight:600;">
-        Hire me / Collaborate
-      </a>
-    </div>
-  </div>
-
-  <!-- Contact + How to reach -->
-  <h3 style="margin-top:18px; margin-bottom:6px;">Contact</h3>
-  <p style="margin:0 0 8px;">
-    👉 <strong>Email:</strong> <a href="mailto:you@example.com">you@example.com</a><br>
-    👉 <strong>Portfolio:</strong> <a href="#" target="_blank">your-portfolio.com</a><br>
-    👉 <strong>Telegram:</strong> <a href="#" target="_blank">@yourhandle</a>
+  <h3 style="margin-top:18px; color:#f8fafc;">🧠 Skills</h3>
+  <p style="margin:10px auto; max-width:600px;">
+    <img src="https://img.shields.io/badge/Python-Expert-blue?logo=python" />
+    <img src="https://img.shields.io/badge/Pyrogram-Fast-red?logo=telegram" />
+    <img src="https://img.shields.io/badge/Aiogram-Async-yellow" />
+    <img src="https://img.shields.io/badge/MongoDB-Atlas-4ea94b?logo=mongodb" />
+    <img src="https://img.shields.io/badge/REST-APIs-ffb703" />
+    <img src="https://img.shields.io/badge/Graphic%20Design-Basic-8b5cf6" />
   </p>
 
-  <!-- Footer -->
-  <div style="border-top:1px solid #e6eef6; margin-top:18px; padding-top:12px; color:#475569; font-size:13px;">
-    <p style="margin:0;">
-      <small>Made with ❤️ • Always learning • <em style="font-variant:small-caps">Open to freelance & open-source collaborations</em></small>
-    </p>
+  <h3 style="margin-top:18px; color:#f8fafc;">🚀 Projects</h3>
+  <div align="left" style="display:inline-block; text-align:left; background:#1e293b; border-radius:12px; padding:16px; max-width:700px; box-shadow:inset 0 0 10px rgba(255,255,255,0.05);">
+    <ul style="color:#e2e8f0; list-style:none; padding-left:0;">
+      <li>🤖 <b><a href="https://t.me/Siyaprobot" style="color:#38bdf8;">@Siyaprobot</a></b> – Smart assistant bot with anime lookup, YouTube downloader, and economy system.</li>
+      <li>🎧 <b><a href="https://t.me/Test_ixi_bot" style="color:#38bdf8;">@Test_ixi_bot</a></b> – Multi-purpose bot prototype featuring advanced commands and music control.</li>
+      <li>💬 <b><a href="https://t.me/shaishta_sexy_bot" style="color:#38bdf8;">@shaishta_sexy_bot</a></b> – Entertainment-based bot for Telegram communities.</li>
+    </ul>
   </div>
+
+  <h3 style="margin-top:20px; color:#f8fafc;">🌐 Channels & Communities</h3>
+  <p>
+    <a href="https://t.me/ShadowAnime" style="color:#38bdf8;">📺 Shadow Anime Channel</a> • 
+    <a href="https://t.me/SiyaDevlogs" style="color:#38bdf8;">📡 Siya Devlogs</a> • 
+    <a href="https://t.me/collabgroup" style="color:#38bdf8;">🤝 Collab Group</a>
+  </p>
+
+  <h3 style="margin-top:18px; color:#f8fafc;">💬 Languages</h3>
+  <p>Hindi • Urdu • English • Bengali</p>
+
+  <hr style="border:none; height:1px; background:#334155; margin:18px 0;">
+
+  <p style="color:#64748b; font-size:13px;">
+    “Building bots that feel alive.” • Always learning • Open for collaborations
+  </p>
 </div>
+
+<!-- Footer glow -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="700">
+</p>
