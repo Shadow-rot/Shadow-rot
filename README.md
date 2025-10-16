@@ -1,56 +1,78 @@
-<!-- 🌌 SHADWO | Futuristic GitHub Profile -->
-
+<!-- 🪐 SHADWO | Futuristic GitHub Profile -->
 <div align="center">
 
-<!-- ✨ Typing Intro Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=480&lines=Hey%2C+I'm+Shadwo+💠;Python+%26+Bot+Developer+🤖;Automation+is+my+Art+🎯;Let's+Build+Something+Awesome+⚡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&pause=1100&color=0FF4C6&center=true&vCenter=true&width=520&lines=👾+Shadwo+—+Automation+Artist+⚡;Creating+Intelligent+Bots+%26+Systems+🧠;Building+the+Future+in+Python+🚀" alt="Typing SVG" />
 
 ---
 
-### 🧩 ᴀʙᴏᴜᴛ ᴍᴇ
-> ✦ ɪ’ᴍ **sʜᴀᴅᴡᴏ**, ᴀ ʏᴏᴜɴɢ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ 🇮🇳  
-> ✦ ʙᴜɪʟᴅɪɴɢ ғᴀsᴛ, ʀᴇʟɪᴀʙʟᴇ, ᴀɴᴅ ᴀᴇsᴛʜᴇᴛɪᴄ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs ᴛʜᴀᴛ ᴍᴀᴋᴇ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴀʟɪᴠᴇ.  
-> ✦ ғᴏᴄᴜsᴇᴅ ᴏɴ **ᴘʏᴛʜᴏɴ**, **ᴀɪᴏɢʀᴀᴍ**, **ᴘʏʀᴏɢʀᴀᴍ**, ᴀɴᴅ **ᴍᴏɴɢᴏᴅʙ**  
-> ✦ ғᴏᴜɴᴅᴇʀ ᴏғ **sɪʏᴀ ʙᴏᴛs** • ᴘᴀʀᴛ ᴏғ **sʜᴀᴅᴏᴡ ᴅᴇᴠ ᴛᴇᴀᴍ**
+### <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f468-200d-1f4bb.svg" width="24"/> ᴀʙᴏᴜᴛ ᴍᴇ
+> ✦ **Sʜᴀᴅᴡᴏ** — ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ & ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ ᴀʀᴛɪsᴛ  
+> ✦ ʙᴜɪʟᴅɪɴɢ ᴀɪ-ᴅʀɪᴠᴇɴ, ᴅʏɴᴀᴍɪᴄ, ᴀɴᴅ ᴀɴɪᴍᴇ-ᴛʜᴇᴍᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛs  
+> ✦ ғᴏᴜɴᴅᴇʀ ᴏғ <b>Sɪʏᴀ Bᴏᴛs</b> · ᴄᴏʀᴇ ᴅᴇᴠ ᴀᴛ <b>Sʜᴀᴅᴏᴡ Dᴇᴠ Tᴇᴀᴍ</b>  
+> ✦ ғᴏᴄᴜsᴇᴅ ᴏɴ: ᴘʏʀᴏɢʀᴀᴍ · ᴀɪᴏɢʀᴀᴍ · ᴍᴏɴɢᴏᴅʙ · ғᴀsᴛᴀᴘɪ  
+> ✦ ʙᴜɪʟᴅɪɴɢ ᴀɴɪᴍᴇ, ᴍᴜsɪᴄ, ᴀɴᴅ ᴇᴄᴏɴᴏᴍʏ ʙᴏᴛs ғᴏʀ ɢʟᴏʙᴀʟ ᴜsᴇʀs
 
-🧠 *"ᴄᴏᴅᴇ ɪs ᴀʀᴛ, ᴀɴᴅ ᴇᴠᴇʀʏ ʙᴜɢ ɪs ᴀ ɴᴇᴡ ᴠᴇʀsᴇ."*
-
----
-
-### ⚙️ ᴛᴇᴄʜ sᴛᴀᴄᴋ & sᴋɪʟʟs
-
-💻 **ʟᴀɴɢᴜᴀɢᴇs & ғʀᴀᴍᴇᴡᴏʀᴋs**  
-`Python` · `FastAPI` · `Aiogram` · `Pyrogram` · `Node.js`
-
-🧩 **ᴅᴀᴛᴀʙᴀsᴇs & ᴛᴏᴏʟs**  
-`MongoDB` · `Redis` · `Docker` · `Git` · `REST APIs`
-
-🎨 **ᴏᴛʜᴇʀ**  
-`Graphic Design (Basic)` · `Automation Logic` · `Anime API Systems`
+🧬 *"ɪ ғᴜsᴇ ᴄᴏᴅᴇ ᴡɪᴛʜ ᴄʀᴇᴀᴛɪᴠɪᴛʏ ᴛᴏ sʜᴀᴘᴇ ᴛʜᴇ ғᴜᴛᴜʀᴇ ᴏғ ᴀᴜᴛᴏᴍᴀᴛɪᴏɴ."*
 
 ---
 
-### 🚀 ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs
+### ⚙️ ᴛᴇᴄʜ ᴄᴏʀᴇ
 
-| 🪐 Project | 💬 Description | 🧠 Tech |
-|:--|:--|:--|
-| 🤖 [Siyaprobot](https://t.me/Siyaprobot) | Smart Telegram Bot — Anime, Music, Downloader, Economy | Pyrogram · MongoDB |
-| 🎧 [Test_ixi_bot](https://t.me/Test_ixi_bot) | Multipurpose prototype bot with modern music tools | Python · Aiogram |
-| 💬 [Shaishta_Bot](https://t.me/shaishta_sexy_bot) | Fun entertainment bot for Telegram communities | Python · MongoDB |
+| 💻 Languages | 🧠 Frameworks | 🗄️ Databases | 🛠️ Tools |
+|:-------------:|:--------------:|:--------------:|:----------:|
+| Python 🐍 | Pyrogram 💬 | MongoDB 🍃 | Docker 🐳 |
+| Node.js ⚡ | Aiogram ⚙️ | Redis 🔺 | Git 🧩 |
+| HTML/CSS 🌐 | FastAPI 🚀 | JSON / REST 🌍 | Canva 🎨 |
+
+---
+
+### 🧩 ғᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛs
+
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<a href="https://t.me/Siyaprobot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/></a>
+<h4>🤖 Siyaprobot</h4>
+<p>Smart Telegram Bot for Music, Anime & Automation</p>
+</td>
+<td align="center">
+<a href="https://t.me/Test_ixi_bot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/></a>
+<h4>🎧 Test_ixi_bot</h4>
+<p>Multipurpose AI Bot Prototype</p>
+</td>
+<td align="center">
+<a href="https://t.me/shaishta_sexy_bot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/></a>
+<h4>💬 Shaishta_Bot</h4>
+<p>Fun & Entertainment Bot for Groups</p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
 ### 🌐 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Siyaprobot-blue?logo=telegram&style=for-the-badge)](https://t.me/Siyaprobot)
-[![Channel](https://img.shields.io/badge/Channel-Shadow%20Anime-8b5cf6?logo=telegram&style=for-the-badge)](https://t.me/ShadowAnime)
-[![Devlogs](https://img.shields.io/badge/Devlogs-Siya%20Devlogs-22c55e?logo=notion&style=for-the-badge)](https://t.me/SiyaDevlogs)
-[![GitHub](https://img.shields.io/badge/GitHub-@shadwo--rot-black?logo=github&style=for-the-badge)](https://github.com/shadwo-rot)
-[![Email](https://img.shields.io/badge/Email-looktouhid%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:looktouhid@gmail.com)
+<a href="https://t.me/Siyaprobot">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="28"/> Telegram
+</a> |
+<a href="https://t.me/ShadowAnime">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="28"/> Shadow Anime Channel
+</a> |
+<a href="https://t.me/SiyaDevlogs">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" width="28"/> Siya Devlogs
+</a> |
+<a href="mailto:looktouhid@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="28"/> Email Me
+</a> |
+<a href="https://github.com/shadwo-rot">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28"/> GitHub
+</a>
 
 ---
 
-### 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛs
+### 📊 ɢɪᴛʜᴜʙ ᴅᴀᴛᴀ ᴄᴏʀᴇ
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shadwo-rot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165">
@@ -66,32 +88,30 @@
 
 ---
 
-### 🪄 ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
+### 🔥 ᴀᴄᴛɪᴠɪᴛʏ ɢʀᴀᴘʜ
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadwo-rot&bg_color=00000000&color=38bdf8&line=22c55e&point=facc15&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadwo-rot&bg_color=00000000&color=00ffff&line=38bdf8&point=facc15&area=true&hide_border=true" />
 </p>
 
 ---
 
-### 🌱 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ
-> 🌀 Advanced AI-driven Telegram Systems  
-> 🧩 Automation with Python + FastAPI  
-> 🪐 Machine Learning for Bot Behavior  
-> 🧠 UI/UX Enhancement through Feedback Loops
+### 🧠 ᴄᴜʀʀᴇɴᴛʟʏ ᴇxᴘʟᴏʀɪɴɢ
+> 🧩 Telegram AI Integrations  
+> ⚙️ Smart Automation Systems  
+> 🪐 Neural Network Concepts  
+> 💡 UX + API Optimization  
 
 ---
 
-### ✨ ϙᴜᴏᴛᴇ ᴏғ ᴛʜᴇ ᴅᴀʏ
-> *“You don’t need magic to create miracles — just logic, focus, and a heartbeat of code.”* ⚡
+### 🌙 ʟᴀɴɢᴜᴀɢᴇs
+Hindi 🇮🇳 · Urdu 🇵🇰 · English 🇬🇧 · Bengali 🇧🇩  
 
 ---
 
-### 💬 ʟᴀɴɢᴜᴀɢᴇs
-Hindi 🇮🇳 · Urdu 🇵🇰 · English 🇬🇧 · Bengali 🇧🇩
+### 💬 ғɪɴᴀʟ ɴᴏᴛᴇ
+> 🩵 *"Automation is not about code — it’s about imagination running on logic."*  
+> — **Sʜᴀᴅᴡᴏ**
 
----
-
-#### 🌙 ᴄʀᴀғᴛᴇᴅ ᴡɪᴛʜ ᴇʟᴇɢᴀɴᴄᴇ ʙʏ **sʜᴀᴅᴡᴏ**
-> *“Automation is freedom — and creativity is my syntax.”* 🩶
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="800"/>
 
 </div>
