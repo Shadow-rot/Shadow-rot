@@ -150,7 +150,3 @@ class Shadwo:
 
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:1a1a2e,100:0d1117&height=110&section=footer" width="100%"/>
-
-<div align="center">
-<sub>Made with ❤️ by Shadwo &nbsp;·&nbsp; Kolkata, India 🇮🇳</sub>
-</div>
